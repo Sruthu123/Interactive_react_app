@@ -1,7 +1,7 @@
 import { Header } from './components/Header';
 import { CoreConcept } from './components/CoreConcept';
 import { CORE_CONCEPTS } from './data';
-import TabButton from './Tabbutton';
+import TabButton from './TabButton';
 import TopicContent from './TopicContent';
 import { useState } from 'react';
 import { EXAMPLES } from './data';
