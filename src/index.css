@@ -168,6 +168,7 @@ main h2 {
 
 #tab-content code {
   font-size: 1rem;
+  white-space: pre-wrap; 
 }
 
 /* Quiz Section */
